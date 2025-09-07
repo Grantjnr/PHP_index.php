@@ -1,2 +1,2 @@
-# PHP_index.php
-#This contains the code for the Student Planner Project.
+# PHP_Project_Work
+#This contains both the code and database connection for the Student Planner Project.
